@@ -1,0 +1,1 @@
+// Placeholder for FinancialGoalsProgress implementation
